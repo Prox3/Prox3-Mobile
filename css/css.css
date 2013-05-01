@@ -1,0 +1,30 @@
+body {
+	margin:0;
+	padding:0;
+	font-family:"HelveticaNeue LT 45 Light", "trebuchet MS", sans-serif;
+	background:#57bfeb;
+	text-align:center; /* hack para o IE */	
+}
+#tudo {
+	background:#fff;
+	min-height:800px;
+	margin:0 auto;			
+	text-align:left; /* "remédio" para o hack do IE */	
+}
+
+#header{
+	display:table;
+	width:inherit;
+	height:auto;
+	text-align:center;
+}
+
+#header h1{
+	color:#c4c5c6;
+	font-weight:bold;
+}
+
+#logo img{
+	margin-top: 83px;
+}
+

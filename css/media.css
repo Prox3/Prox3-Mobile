@@ -1,0 +1,65 @@
+@media screen and (min-width:320px) { 
+	#tudo {
+		width: 320px;
+		/*background:#000; Preto*/
+	}
+	#header h1{
+		font-size:12px;
+	}
+	#logo img{
+		height:85px;/*323px;*/
+		width:104px; /*393px;*/
+	}
+}
+@media screen and (min-width:480px) { 
+	#tudo {
+		width: 480px;
+		/*background:#ccc; Cinza*/
+	}
+	#header h1{
+		font-size:14px;
+	}
+	#logo img{
+		height:99px;/*323px;*/
+		width:120px; /*393px;*/
+	}
+}
+@media screen and (min-width:600px) { 
+	#tudo {
+		width: 600px;
+		/*background:#F00; Vermelho*/
+	}
+	#header h1{
+		font-size:16px;
+	}
+	#logo img{
+		height:111px;/*323px;*/
+		width:135px; /*393px;*/
+	}
+}
+@media screen and (min-width:768px) { 
+	#tudo {
+		width: 768px;
+		/*background:#FF0; Amarelo*/
+	}
+	#header h1{
+		font-size:18px;
+	}
+	#logo img{
+		height:119px;/*323px;*/
+		width:145px; /*393px;*/
+	}
+}
+@media screen and (min-width:1000px) { 
+	#tudo {
+		width: 1000px;
+		/*background:#F0F; Pink*/
+	}
+	#header h1{
+		font-size:20px;
+	}
+	#logo img{
+		height:132px;/*323px;*/
+		width:160px; /*393px;*/
+	}
+}
