@@ -153,7 +153,9 @@
         </center>
     </div>
     <div id="footer">
-    	<a href="https://www.facebook.com/prox3.digital" target="_blank">
+    	
+        <!--<a href="https://m.facebook.com/prox3.digital" target="_blank">-->
+        <a href="fb://profile/435538393190918" target="_blank">
         	<img src="images/facebook.png" alt="Facebook - Prox3" width="100%" height="100%" />
 		</a>
     </div>
