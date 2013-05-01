@@ -24,7 +24,7 @@ body {
 }
 
 #logo img{
-	margin-top: 83px;
+	margin-top: 63px;
 }
 
 #footer {
@@ -62,7 +62,7 @@ dd {
 	text-align: justify;
 }
 
-dt span {
+dt span, dt a {
 	cursor:pointer;
 	padding: 10px;
 	display: block;
@@ -72,7 +72,7 @@ dt span {
 	border:0px;
 }
 
-dt span:hover {
+dt span:hover, dt a:hover  {
 	background:#dcdb00;
 }
 

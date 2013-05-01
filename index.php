@@ -142,20 +142,20 @@
                     </div>
                 </dd>
                 
-                <dt><span>contatos</span></dt>
-                <dd>
+                <dt><a href="contato.php">contatos</a></dt>
+                <!--<dd>
                 	<div class="boxTextos">
                         <p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
                         </p>
                     </div>
-                </dd>         
+                </dd>        --> 
             </dl>
         </center>
     </div>
     <div id="footer">
     	
         <!--<a href="https://m.facebook.com/prox3.digital" target="_blank">-->
-        <a href="fb://profile/435538393190918" target="_blank">
+        <a id="lnkFace" href="fb://profile/435538393190918" target="_blank">
         	<img src="images/facebook.png" alt="Facebook - Prox3" width="100%" height="100%" />
 		</a>
     </div>

@@ -17,4 +17,11 @@ $(document).ready(function(){
 	  	}
 		return false;
 	});
+	
+	var deviceAgent = navigator.userAgent.toLowerCase();
+    var agentID = deviceAgent.match(/(iphone|ipod|android)/);
+
+    if (!agentID) {
+		$("#lnkFace").attr("href","https://www.facebook.com/prox3.digital");
+	}
 });

@@ -16,7 +16,7 @@
 	dd, .boxTextos h2 {
 		font-size: 12px;
 	}
-	dt span {
+	dt span, dt a {
 		font-size:16px;
 	}
 	.boxClientes{
@@ -42,7 +42,7 @@
 	dd, .boxTextos h2 {
 		font-size: 14px;
 	}
-	dt span {
+	dt span, dt a {
 		font-size:17px;
 	}
 	.boxClientes{
@@ -68,7 +68,7 @@
 	dd, .boxTextos h2 {
 		font-size: 16px;
 	}
-	dt span {
+	dt span, dt a {
 		font-size:18px;
 	}
 }
@@ -90,7 +90,7 @@
 	dd, .boxTextos h2 {
 		font-size: 18px;
 	}
-	dt span {
+	dt span, dt a {
 		font-size:19px;
 	}
 }
@@ -112,7 +112,7 @@
 	dd, .boxTextos h2 {
 		font-size: 20px;
 	}
-	dt span {
+	dt span, dt a {
 		font-size:20px;
 	}
 }
