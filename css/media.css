@@ -10,6 +10,9 @@
 		height:85px;/*323px;*/
 		width:104px; /*393px;*/
 	}
+	.accordion { 
+		width:230px;
+	}
 }
 @media screen and (min-width:480px) { 
 	#tudo {
@@ -22,6 +25,9 @@
 	#logo img{
 		height:99px;/*323px;*/
 		width:120px; /*393px;*/
+	}
+	.accordion { 
+		width:390px;
 	}
 }
 @media screen and (min-width:600px) { 
@@ -36,6 +42,9 @@
 		height:111px;/*323px;*/
 		width:135px; /*393px;*/
 	}
+	.accordion { 
+		width:510px;
+	}
 }
 @media screen and (min-width:768px) { 
 	#tudo {
@@ -49,6 +58,9 @@
 		height:119px;/*323px;*/
 		width:145px; /*393px;*/
 	}
+	.accordion { 
+		width:678px;
+	}
 }
 @media screen and (min-width:1000px) { 
 	#tudo {
@@ -61,5 +73,8 @@
 	#logo img{
 		height:132px;/*323px;*/
 		width:160px; /*393px;*/
+	}
+	.accordion { 
+		width:910px;
 	}
 }

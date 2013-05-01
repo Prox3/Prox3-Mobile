@@ -12,7 +12,7 @@ body {
 	text-align:left; /* "remédio" para o hack do IE */	
 }
 
-#header{
+#header, #content, #footer{
 	display:table;
 	width:inherit;
 	height:auto;
@@ -27,4 +27,41 @@ body {
 #logo img{
 	margin-top: 83px;
 }
+
+#footer img{
+	height:28px;/*28px;*/
+	width:14px; /*14px;*/
+}
+
+a {
+  text-decoration: none;
+}
+
+.accordion { 
+	font-family:"myriad Pro", "trebuchet MS", sans-serif;
+	width:230px;
+}
+
+dt, dd {
+	margin-bottom:10px;
+	padding: 10px;
+}
+ 
+
+dt {
+	text-transform:uppercase; 
+	background:#d5d6d7;
+}
+
+dd {
+	border-top: 0; 
+	font-size: 12px;
+}
+
+dt a, dd a {
+	display: block;
+	color: #fff;
+	font-weight:600;
+}
+
 
