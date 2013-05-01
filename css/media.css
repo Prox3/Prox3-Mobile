@@ -13,6 +13,16 @@
 	.accordion { 
 		width:230px;
 	}
+	dd, .boxTextos h2 {
+		font-size: 12px;
+	}
+	dt span {
+		font-size:16px;
+	}
+	.boxClientes{
+		width:44px;
+		height:37px;
+	}
 }
 @media screen and (min-width:480px) { 
 	#tudo {
@@ -28,6 +38,16 @@
 	}
 	.accordion { 
 		width:390px;
+	}
+	dd, .boxTextos h2 {
+		font-size: 14px;
+	}
+	dt span {
+		font-size:17px;
+	}
+	.boxClientes{
+		width:98px;
+		height:82px;
 	}
 }
 @media screen and (min-width:600px) { 
@@ -45,6 +65,12 @@
 	.accordion { 
 		width:510px;
 	}
+	dd, .boxTextos h2 {
+		font-size: 16px;
+	}
+	dt span {
+		font-size:18px;
+	}
 }
 @media screen and (min-width:768px) { 
 	#tudo {
@@ -61,6 +87,12 @@
 	.accordion { 
 		width:678px;
 	}
+	dd, .boxTextos h2 {
+		font-size: 18px;
+	}
+	dt span {
+		font-size:19px;
+	}
 }
 @media screen and (min-width:1000px) { 
 	#tudo {
@@ -76,5 +108,11 @@
 	}
 	.accordion { 
 		width:910px;
+	}
+	dd, .boxTextos h2 {
+		font-size: 20px;
+	}
+	dt span {
+		font-size:20px;
 	}
 }

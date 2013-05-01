@@ -7,7 +7,6 @@ body {
 }
 #tudo {
 	background:#fff;
-	min-height:800px;
 	margin:0 auto;			
 	text-align:left; /* "remédio" para o hack do IE */	
 }
@@ -28,6 +27,10 @@ body {
 	margin-top: 83px;
 }
 
+#footer {
+	padding-bottom:20px;
+}
+
 #footer img{
 	height:28px;/*28px;*/
 	width:14px; /*14px;*/
@@ -37,16 +40,14 @@ a {
   text-decoration: none;
 }
 
+
 .accordion { 
 	font-family:"myriad Pro", "trebuchet MS", sans-serif;
-	width:230px;
 }
 
 dt, dd {
-	margin-bottom:10px;
-	padding: 10px;
+	margin: 0px 0px 10px 0px ;
 }
- 
 
 dt {
 	text-transform:uppercase; 
@@ -55,13 +56,51 @@ dt {
 
 dd {
 	border-top: 0; 
+	color:#9b9c9c;
 	font-size: 12px;
+	font-family:verdana, "trebuchet MS", sans-serif;
+	text-align: justify;
 }
 
-dt a, dd a {
+dt span {
+	cursor:pointer;
+	padding: 10px;
 	display: block;
 	color: #fff;
-	font-weight:600;
+	font-weight:bold;
+	outline:none;
+	border:0px;
 }
+
+dt span:hover {
+	background:#dcdb00;
+}
+
+dt span.active{
+	background:#dcdb00;
+}
+
+.boxTextos{
+	display:table;
+	width:inherit;
+	height:auto;
+}
+
+.boxTextos h2{
+	font-size:12px;
+	font-family:"HelveticaNeue LT 45 Light", "trebuchet MS", sans-serif;
+	color:#2d9ac8;
+	text-transform:uppercase;
+	margin-bottom:-10px;
+}
+
+.boxClientes{
+	display:table;
+	float:left;
+	margin: 16px;
+}
+
+
+
 
 
