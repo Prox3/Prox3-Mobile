@@ -18,7 +18,7 @@
     <title>Prox3</title>
     <link rel="stylesheet" type="text/css" href="css/css.css"/>
     <link rel="stylesheet" type="text/css" href="css/media.css"/>
-    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="http://zeptojs.com/zepto.min.js"></script>
     <script type="text/javascript" src="js/index.js"></script>
 </head>
 <body>
@@ -37,7 +37,7 @@
     	<center>
             <dl class="accordion">
                 <dt><span>como pensamos</span></dt>
-                <dd class="active">
+                <dd>
                 	<div class="boxTextos">
                         <p>Mergulhar no universo de nossos parceiros, usar todo nosso know-how e criatividade para realizar projetos singulares e experiências marcantes.
                         <br/><br/>
@@ -134,13 +134,13 @@
                     </div>
                 </dd>
             
-                <dt><span>portfolio</span></dt>
+                <!--<dt><span>portfolio</span></dt>
                 <dd>
                 	<div class="boxTextos">
                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
                         </p>
                     </div>
-                </dd>
+                </dd>-->
                 
                 <dt><a href="contato.php">contatos</a></dt>
             </dl>
