@@ -15,6 +15,9 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width,user-scalable=no">
     <meta name="viewport" content="width=device-width, minimum-scale=1,maximum-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+		<link rel="apple-touch-icon" href="images/icon-app.jpg"/>
+    <link rel="apple-touch-startup-image" href="images/screen-iphone.jpg">
     <title>Prox3</title>
     <link rel="stylesheet" type="text/css" href="css/css.css"/>
     <link rel="stylesheet" type="text/css" href="css/media.css"/>
