@@ -19,10 +19,15 @@
 	dt span, dt a {
 		font-size:16px;
 	}
+	#area-Clientes{
+		margin-left:20px;
+	}
 	.boxClientes{
-		width:44px;
+		display:table;
+		width:auto;
 		height:37px;
 	}
+
 }
 @media screen and (min-width:480px) { 
 	#tudo {
@@ -45,9 +50,13 @@
 	dt span, dt a {
 		font-size:17px;
 	}
+	#area-Clientes{
+		margin: 0px;
+	}
 	.boxClientes{
-		width:98px;
-		height:82px;
+		display:table;
+		width:auto;
+		height:46px;
 	}
 }
 @media screen and (min-width:600px) { 

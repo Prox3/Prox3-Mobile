@@ -86,8 +86,24 @@
                 
                 <dt><span>clientes</span></dt>
                 <dd>
-                	<div class="boxTextos">
+                	<div id="area-Clientes" class="boxTextos">
                     	<div class="boxClientes">
+                        	<a href="http://actmob.com/#!/home" target="_blank">
+                            	<img src="img_clients/actmob.png" width="100%" height="100%" />
+                            </a>
+                        </div>
+                        <div class="boxClientes">
+                        	<a href="http://www.prox3.com.br/MegaGeo/" target="_blank">
+                            	<img src="img_clients/megageo.png" width="100%" height="100%" />
+                            </a>
+                        </div>
+                        <div class="boxClientes">
+                        	<a href="http://construtoragc.com.br/" target="_blank">
+                            	<img src="img_clients/gc_construtora.png" width="100%" height="100%" />
+                            </a>
+                        </div>
+                        
+                        <!--<div class="boxClientes">
                         	<a href="#" target="_blank">
                             	<img src="images/logo.png" width="100%" height="100%" />
                             </a>
@@ -117,23 +133,7 @@
                         	<a href="#" target="_blank">
                             	<img src="images/logo.png" width="100%" height="100%" />
                             </a>
-                        </div>
-                        
-                        <div class="boxClientes">
-                        	<a href="#" target="_blank">
-                            	<img src="images/logo.png" width="100%" height="100%" />
-                            </a>
-                        </div>
-                        <div class="boxClientes">
-                        	<a href="#" target="_blank">
-                            	<img src="images/logo.png" width="100%" height="100%" />
-                            </a>
-                        </div>
-                        <div class="boxClientes">
-                        	<a href="#" target="_blank">
-                            	<img src="images/logo.png" width="100%" height="100%" />
-                            </a>
-                        </div>
+                        </div>-->
                     </div>
                 </dd>
             
